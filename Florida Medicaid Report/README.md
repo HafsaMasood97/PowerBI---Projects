@@ -36,6 +36,10 @@ The report includes the following key components:
 2. Open the Power BI file (March 2023 Florida Medicaid Report.pbix) using Power BI Desktop.
 3. Explore the report by interacting with the dropdown and map to analyze different counties.
 
+## Below is a screenshot of the Power BI report:
+
+![Florida Medicaid Report Screenshot](Report.png)
+
 ## Data Source
 - **Medicaid Data**: The data includes member counts and market share information, sourced from [Florida Medicaid Public Records].
 - **Date Range**: March 2023.
